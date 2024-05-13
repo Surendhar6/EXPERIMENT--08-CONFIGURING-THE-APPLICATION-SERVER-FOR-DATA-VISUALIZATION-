@@ -1,7 +1,11 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
-## Aim: To  configure  the Application server and visualize the data on the dashboard 
-## Components required: Iot application server 
+## Aim: 
+To  configure  the Application server and visualize the data on the dashboard
+
+## Components required: 
+Iot application server 
+
 ## Theory :
  An application server is a modern form of platform middleware. It is system software that resides between the operating system (OS) on one side, the external resources (such as a database management system [DBMS], communications and Internet services) on another side and the users’ applications on the third side. The function of the application server is to act as host (or container) for the user’s business logic while facilitating access to and performance of the business application. The application server must perform despite the variable and competing traffic of client requests, hardware and software failures, the distributed nature of the larger-scale applications, and potential heterogeneity of data and processing resources required to fulfill the business requirements of the applications.
 
@@ -31,8 +35,9 @@ As the application server market matures, high performance becomes a stronger cr
  
 ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
 
+![image](https://github.com/Surendhar6/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118352907/11dee813-de7c-4b30-8152-8a3d86a9c4fb)
 
+![image](https://github.com/Surendhar6/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/118352907/305da868-fd26-4be9-9494-67f9084d2ce7)
 
 ## Results: 
-
   The Application  server and network server data is add on the data dashboard using visualiztion editor 
